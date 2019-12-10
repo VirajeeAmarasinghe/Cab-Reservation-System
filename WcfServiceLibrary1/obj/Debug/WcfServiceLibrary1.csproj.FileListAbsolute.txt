@@ -1,0 +1,6 @@
+H:\Final NET\NET\HeadQuarters\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+H:\Final NET\NET\HeadQuarters\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+H:\Final NET\NET\HeadQuarters\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+H:\Final NET\NET\HeadQuarters\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+H:\Final NET\NET\HeadQuarters\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+H:\Final NET\NET\HeadQuarters\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

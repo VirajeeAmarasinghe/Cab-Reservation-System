@@ -1,0 +1,11 @@
+H:\MainProject\HeadQuarters\HeadQuartersLib\obj\Debug\HeadQuartersLib.csprojResolveAssemblyReference.cache
+E:\Main\HeadQuarters\HeadQuartersLib\obj\Debug\HeadQuartersLib.csprojResolveAssemblyReference.cache
+E:\Main\HeadQuarters\HeadQuartersLib\bin\Debug\HeadQuartersLib.dll
+E:\Main\HeadQuarters\HeadQuartersLib\bin\Debug\HeadQuartersLib.pdb
+E:\Main\HeadQuarters\HeadQuartersLib\obj\Debug\HeadQuartersLib.dll
+E:\Main\HeadQuarters\HeadQuartersLib\obj\Debug\HeadQuartersLib.pdb
+D:\Assignments\NET\HeadQuarters\HeadQuartersLib\bin\Debug\HeadQuartersLib.dll
+D:\Assignments\NET\HeadQuarters\HeadQuartersLib\bin\Debug\HeadQuartersLib.pdb
+D:\Assignments\NET\HeadQuarters\HeadQuartersLib\obj\Debug\HeadQuartersLib.csprojResolveAssemblyReference.cache
+D:\Assignments\NET\HeadQuarters\HeadQuartersLib\obj\Debug\HeadQuartersLib.dll
+D:\Assignments\NET\HeadQuarters\HeadQuartersLib\obj\Debug\HeadQuartersLib.pdb

@@ -1,0 +1,15 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.form-control {
+    border-radius:0px;
+    border: 1px solid #d4d4d4;
+	
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 400px;
+}

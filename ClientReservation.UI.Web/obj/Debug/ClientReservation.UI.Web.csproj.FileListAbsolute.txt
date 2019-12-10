@@ -1,0 +1,5 @@
+E:\Main\HeadQuarters\ClientReservation.UI.Web\bin\ClientReservation.UI.Web.dll
+E:\Main\HeadQuarters\ClientReservation.UI.Web\bin\ClientReservation.UI.Web.pdb
+E:\Main\HeadQuarters\ClientReservation.UI.Web\obj\Debug\ClientReservation.UI.Web.csprojResolveAssemblyReference.cache
+E:\Main\HeadQuarters\ClientReservation.UI.Web\obj\Debug\ClientReservation.UI.Web.dll
+E:\Main\HeadQuarters\ClientReservation.UI.Web\obj\Debug\ClientReservation.UI.Web.pdb

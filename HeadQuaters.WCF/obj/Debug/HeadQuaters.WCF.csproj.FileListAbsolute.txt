@@ -1,0 +1,10 @@
+H:\Final NET\NET\HeadQuarters\HeadQuaters.WCF\obj\Debug\HeadQuaters.WCF.csprojResolveAssemblyReference.cache
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\bin\Debug\HeadQuaters.WCF.dll
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\bin\Debug\HeadQuaters.WCF.pdb
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\bin\Debug\HeadQuarters.BO.dll
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\bin\Debug\HeadQuarters.DL.dll
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\bin\Debug\HeadQuarters.BO.pdb
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\bin\Debug\HeadQuarters.DL.pdb
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\obj\Debug\HeadQuaters.WCF.csprojResolveAssemblyReference.cache
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\obj\Debug\HeadQuaters.WCF.dll
+H:\Final NET\NET\Final NET Assignment\HeadQuarters\HeadQuaters.WCF\obj\Debug\HeadQuaters.WCF.pdb

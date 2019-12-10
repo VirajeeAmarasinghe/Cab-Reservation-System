@@ -1,0 +1,146 @@
+.form-control{
+
+	border-radius: 0;
+	font-family: Tahoma;
+
+	
+}
+
+.mdl-layout__header {
+
+	background-color: #171717;
+
+}
+
+
+.form-card-wide.mdl-card {
+  width: 100%;
+  margin-top:100px;
+}
+
+.form-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.mdl-card__supporting-text{
+
+	font-size:16px;
+
+
+}
+
+label
+{
+
+    font-family: 'PT Sans', sans-serif;
+    font-weight:400;
+}
+
+.mdl-button--raised.mdl-button--colored
+{
+    background: #292929;
+}
+
+
+.mdl-button--raised.mdl-button--colored:hover
+{
+    background:  #0b0b0b;
+}
+
+.mdl-layout-title
+{
+
+    font-family: 'Raleway', sans-serif;
+}
+
+.margin-overwrite
+{
+
+    margin-top:50px !important;
+}
+
+td:nth-last-child(2)
+{
+     text-align:center; 
+}
+
+td:last-child
+{
+     text-align:center; 
+}
+
+
+th
+{
+
+    background-color:#2D2D2D;
+    color:#fff;
+    font-family: 'PT Sans', sans-serif;
+    font-weight:400;
+
+}
+
+table
+{
+    font-family: 'PT Sans', sans-serif;
+    font-weight:400;
+    height: 100%;
+}
+
+
+
+/*.table-ex td:nth-last-child(3)
+{
+    text-align:center; 
+}*/
+
+.fa-5x
+{
+
+    font-size:10em;
+}
+
+.center-this
+{
+    text-align:center;
+    margin:auto !important;
+    color: #211f1f;
+}
+
+.main-text-style
+{
+
+    padding-top:15px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight:400;
+    font-size:22px;
+    color:#3c3c3c;
+}
+
+.add-color
+{
+    background-color:#16a085;
+    color:#fff;
+     border:none;
+}
+
+.pac-container:after {
+
+    background-image: none !important;
+    height: 0px;
+
+}
+
+.color-sub
+{
+
+     background-color:#16a085;
+     border:none;
+    color:#fff;
+}
+
+#label_error_message {
+
+    margin-left:10.5em;
+    color:red;
+}

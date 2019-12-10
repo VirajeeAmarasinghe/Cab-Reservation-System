@@ -1,0 +1,24 @@
+H:\MainProject\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.dll
+H:\MainProject\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.pdb
+H:\MainProject\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.dll
+H:\MainProject\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.pdb
+D:\Main\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.dll
+D:\Main\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.pdb
+D:\Main\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.csprojResolveAssemblyReference.cache
+D:\Main\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.dll
+D:\Main\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.pdb
+D:\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.dll
+D:\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.pdb
+D:\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.csprojResolveAssemblyReference.cache
+D:\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.dll
+D:\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.pdb
+D:\Assignments\NET\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.dll
+D:\Assignments\NET\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.pdb
+D:\Assignments\NET\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.csprojResolveAssemblyReference.cache
+D:\Assignments\NET\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.dll
+D:\Assignments\NET\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.pdb
+D:\Assignments\NET\Final NET Assignment\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.dll
+D:\Assignments\NET\Final NET Assignment\HeadQuarters\HeadQuarters.DL\bin\Debug\HeadQuarters.DL.pdb
+D:\Assignments\NET\Final NET Assignment\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.csprojResolveAssemblyReference.cache
+D:\Assignments\NET\Final NET Assignment\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.dll
+D:\Assignments\NET\Final NET Assignment\HeadQuarters\HeadQuarters.DL\obj\Debug\HeadQuarters.DL.pdb

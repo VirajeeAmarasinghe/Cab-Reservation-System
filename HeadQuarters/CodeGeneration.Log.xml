@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="Diagnostic" Text="ProjectPath = ..\HeadQuartersLib\HeadQuartersLib.csproj" />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-03-15T16:00:54" Importance="Medium" Text="HeadQuarters's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'HeadQuarters::Cab' -  (Class), 'HeadQuarters::Reservation' -  (Class), 'HeadQuarters::Client' -  (Class), 'HeadQuarters::Package' -  (Class), 'HeadQuarters::Partner' -  (Class), 'HeadQuarters::Employee' -  (Class), 'HeadQuarters::Settings' -  (Class), 'HeadQuarters::Branch' -  (Class) " />
+  <Message Timestamp="2016-03-15T16:01:01" Importance="Medium" Text="'HeadQuarters::Cab' -  (Class) : success (file replaced) - C:\Users\TEMP.KD-STUDENT01\Desktop\Main\HeadQuarters\HeadQuartersLib\GeneratedCode\Cab.cs" />
+  <Message Timestamp="2016-03-15T16:01:01" Importance="Medium" Text="'HeadQuarters::Reservation' -  (Class) : success (file replaced) - C:\Users\TEMP.KD-STUDENT01\Desktop\Main\HeadQuarters\HeadQuartersLib\GeneratedCode\Reservation.cs" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Medium" Text="'HeadQuarters::Client' -  (Class) : success (file replaced) - C:\Users\TEMP.KD-STUDENT01\Desktop\Main\HeadQuarters\HeadQuartersLib\GeneratedCode\Client.cs" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Medium" Text="'HeadQuarters::Package' -  (Class) : success (file replaced) - C:\Users\TEMP.KD-STUDENT01\Desktop\Main\HeadQuarters\HeadQuartersLib\GeneratedCode\Package.cs" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Medium" Text="'HeadQuarters::Partner' -  (Class) : success (file replaced) - C:\Users\TEMP.KD-STUDENT01\Desktop\Main\HeadQuarters\HeadQuartersLib\GeneratedCode\Partner.cs" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Medium" Text="'HeadQuarters::Employee' -  (Class) : success (file replaced) - C:\Users\TEMP.KD-STUDENT01\Desktop\Main\HeadQuarters\HeadQuartersLib\GeneratedCode\Employee.cs" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Medium" Text="'HeadQuarters::Settings' -  (Class) : success (file replaced) - C:\Users\TEMP.KD-STUDENT01\Desktop\Main\HeadQuarters\HeadQuartersLib\GeneratedCode\Settings.cs" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Medium" Text="'HeadQuarters::Branch' -  (Class) : success (file replaced) - C:\Users\TEMP.KD-STUDENT01\Desktop\Main\HeadQuarters\HeadQuartersLib\GeneratedCode\Branch.cs" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Diagnostic" Text="ProjectPath = ..\HeadQuartersLib\HeadQuartersLib.csproj" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-03-15T16:01:02" Importance="Medium" Text="HeadQuarters's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'HeadQuarters::Cab' -  (Class), 'HeadQuarters::Reservation' -  (Class), 'HeadQuarters::Client' -  (Class), 'HeadQuarters::Package' -  (Class), 'HeadQuarters::Partner' -  (Class), 'HeadQuarters::Employee' -  (Class), 'HeadQuarters::Settings' -  (Class), 'HeadQuarters::Branch' -  (Class) " />
+  <Message Timestamp="2016-03-15T16:01:03" Importance="Diagnostic" Text="'HeadQuarters::Cab' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-15T16:01:03" Importance="Diagnostic" Text="'HeadQuarters::Reservation' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-15T16:01:03" Importance="Diagnostic" Text="'HeadQuarters::Client' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-15T16:01:03" Importance="Diagnostic" Text="'HeadQuarters::Package' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-15T16:01:03" Importance="Diagnostic" Text="'HeadQuarters::Partner' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-15T16:01:03" Importance="Diagnostic" Text="'HeadQuarters::Employee' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-15T16:01:03" Importance="Diagnostic" Text="'HeadQuarters::Settings' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="'HeadQuarters::Branch' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="The selection included 7 elements which were not bound to a template." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="'HeadQuarters::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="'HeadQuarters::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="'HeadQuarters::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="'HeadQuarters::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="'HeadQuarters::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="'HeadQuarters::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="Diagnostic" Text="'HeadQuarters::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-15T16:01:04" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
